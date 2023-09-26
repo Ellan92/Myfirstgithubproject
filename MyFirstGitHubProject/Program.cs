@@ -11,3 +11,5 @@ Console.WriteLine("What's your name?");
 Console.Write("Name: ");
 
 string name = Console.ReadLine();
+
+int number = 20;
